@@ -11,7 +11,8 @@
 - 프로젝트 명: AI 기반의 영상 속 음성 및 텍스트를 검색할 수 있는 서비스
 - 프로젝트 기간: 2023.04.24 ~ 2023.06.13
 - 프로젝트 인원: 5명 (AI/Frontend/Backend/Cloud)
-- 
+
+
 |                     [류홍규](https://github.com/HongkyuRyu)                      |                      [박지환](https://github.com/Jihwan98)                      |                      [이형길](https://github.com/Hyunggul)                      |                       [조성록](https://github.com/dev-loggi)                        |                     [최태양](https://github.com/Sunny14578)                      |                               
 :---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------: 
 |[![thumbnail](https://avatars.githubusercontent.com/u/69923886?v=4)](https://github.com/HongkyuRyu) | [![thumbnail](https://avatars.githubusercontent.com/u/76936390?v=4)](https://github.com/Jihwan98) | [![thumbnail](https://avatars.githubusercontent.com/u/124108621?v=4)](https://github.com/Hyunggul) | [![thumbnail](https://avatars.githubusercontent.com/u/33805423?v=4)](https://github.com/dev-loggi) | [![thumbnail](https://avatars.githubusercontent.com/u/59717550?v=4)](https://github.com/Sunny14578)   
@@ -58,7 +59,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 # 프로젝트 개발내용
 
-### 서비스 플로우
+### :seedling: 서비스 플로우
 
 ![Alt text](images/serviceflow_.png)
 
@@ -68,7 +69,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-### UI/UX 개발 내용
+### :herb: UI/UX 개발 내용
 
 ![Alt text](images/view1.png)
 
@@ -80,7 +81,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-### AI 개발내용
+### :blossom: AI 개발내용
 
 [1. Whisper (STT)](https://github.com/openai/whisper)
 - 음성 데이터를 텍스트 데이터로 변환하는 STT모델로 Whisper 모델사용
@@ -122,14 +123,14 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-### Web Server 개발 내용
+### :deciduous_tree: Web Server 개발 내용
 - 동영상 및 스크립트 데이터를 제공하는 REST(Representational State Transfer) API 개발
 - 동영상과 AI 모델로부터 생성된 메타데이터를 DB에 저장하는 기능 개발
 - AWS Cloud EC2에 EasyOCR, Whisper 모델 서버 구축
 
 <br>
 
-### AWS ArchiTecture
+### :hibiscus: AWS ArchiTecture
 ![Alt text](images/awsflow.png)
 
 - ‘동영상 Ctrl + F’ 기능을 이용할 동영상을 업로드 후 Storage에 저장
@@ -140,7 +141,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-# :evergreen_tree: 팀원 소개
+# :milky_way: 팀원 소개
 
 ![Alt text](images/profile_1.png)
 ![Alt text](images/profile_2.png)
