@@ -4,7 +4,7 @@
 
 
 
-# :european_castle: 프로젝트 소개
+## :european_castle: 프로젝트 소개
 
 ![Alt text](images/mainimage.png)
 
@@ -16,7 +16,7 @@
 |                     [류홍규](https://github.com/HongkyuRyu)                      |                      [박지환](https://github.com/Jihwan98)                      |                      [이형길](https://github.com/Hyunggul)                      |                       [조성록](https://github.com/dev-loggi)                        |                     [최태양](https://github.com/Sunny14578)                      |                               
 :---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------: 
 |[![thumbnail](https://avatars.githubusercontent.com/u/69923886?v=4)](https://github.com/HongkyuRyu) | [![thumbnail](https://avatars.githubusercontent.com/u/76936390?v=4)](https://github.com/Jihwan98) | [![thumbnail](https://avatars.githubusercontent.com/u/124108621?v=4)](https://github.com/Hyunggul) | [![thumbnail](https://avatars.githubusercontent.com/u/33805423?v=4)](https://github.com/dev-loggi) | [![thumbnail](https://avatars.githubusercontent.com/u/59717550?v=4)](https://github.com/Sunny14578)   
-|                          **TeamLeader**<br>**AI**                     |                        **AI**<br>**Backend**                         |                           **AI / Backend**<br>**Deploy**                       |                                 **Tech Leader**<br>**Frontend**                              |                            **Backend**<br>**Deploy**                           |                              
+|                         **Team Leader**<br>**AI**                     |                        **AI**<br>**Backend**                         |                           **AI / Backend**<br>**Deploy**                       |                                 **Tech Leader**<br>**Frontend**                              |                            **Backend**<br>**Deploy**                           |                              
 
 <br>
 
@@ -57,7 +57,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-# :earth_asia: 프로젝트 개발내용
+## :earth_asia: 프로젝트 개발내용
 
 ### :seedling: 서비스 플로우
 
@@ -141,7 +141,15 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-# :milky_way: 팀원 소개
+## 🎥 서비스 시연 영상
+
+[![demo_video](images/video-ctrlf-demo-youtube-thumbnail.png)](https://youtu.be/UvRD_n5bfaQ)
+
+<p align="center" style="margin: 0">⬆️⬆️ 이미지를 클릭하면 유튜브로 연결됩니다 ⬆️⬆️</p>
+
+<br>
+
+## :milky_way: 팀원 소개
 
 ![Alt text](images/profile_1.png)
 ![Alt text](images/profile_2.png)
