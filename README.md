@@ -101,9 +101,9 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 ![Alt text](images/image2.png)
 ![Alt text](images/image3.png)
 
-![Alt text](images/profile1.png)
-![Alt text](images/profile2.png)
-![Alt text](images/profile3.png)
-![Alt text](images/profile4.png)
-![Alt text](images/profile5.png)
+![Alt text](images/profile_1.png)
+![Alt text](images/profile_2.png)
+![Alt text](images/profile_3.png)
+![Alt text](images/profile_4.png)
+![Alt text](images/profile_5.png)
 
