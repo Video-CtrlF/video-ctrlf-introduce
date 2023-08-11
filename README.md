@@ -57,7 +57,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 <br>
 
 # 프로젝트 개발내용
-![Alt text](images/serviceflow.png)
+![Alt text](images/serviceflow_.png)
 ![Alt text](images/view.png)
 [1. Whisper (STT)](https://github.com/openai/whisper)
 - 음성 데이터를 텍스트 데이터로 변환하는 STT모델로 Whisper 모델사용
@@ -92,6 +92,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 <br>
+
 # :evergreen_tree: 팀원 소개
 
 ![Alt text](images/profile_1.png)
