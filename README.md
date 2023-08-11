@@ -97,10 +97,6 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 
 # :evergreen_tree: 팀원 소개
-![Alt text](images/image.png)
-![Alt text](images/image2.png)
-![Alt text](images/image3.png)
-
 ![Alt text](images/profile_1.png)
 ![Alt text](images/profile_2.png)
 ![Alt text](images/profile_3.png)
