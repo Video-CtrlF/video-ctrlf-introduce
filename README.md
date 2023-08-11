@@ -57,7 +57,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-# 프로젝트 개발내용
+# :earth_asia: 프로젝트 개발내용
 
 ### :seedling: 서비스 플로우
 
