@@ -11,10 +11,11 @@
 - 프로젝트 명: AI 기반의 영상 속 음성 및 텍스트를 검색할 수 있는 서비스
 - 프로젝트 기간: 2023.04.24 ~ 2023.06.13
 - 프로젝트 인원: 5명 (AI/Frontend/Backend/Cloud)
+- 
 |                     [류홍규](https://github.com/HongkyuRyu)                      |                      [박지환](https://github.com/Jihwan98)                      |                      [이형길](https://github.com/Hyunggul)                      |                       [조성록](https://github.com/dev-loggi)                        |                     [최태양](https://github.com/Sunny14578)                      |                               
 :---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------: 
 |[![thumbnail](https://avatars.githubusercontent.com/u/69923886?v=4)](https://github.com/HongkyuRyu) | [![thumbnail](https://avatars.githubusercontent.com/u/76936390?v=4)](https://github.com/Jihwan98) | [![thumbnail](https://avatars.githubusercontent.com/u/124108621?v=4)](https://github.com/Hyunggul) | [![thumbnail](https://avatars.githubusercontent.com/u/33805423?v=4)](https://github.com/dev-loggi) | [![thumbnail](https://avatars.githubusercontent.com/u/59717550?v=4)](https://github.com/Sunny14578)   
-|                          **TeamLeader**<br>**AI**                     |                        **AI**<br>**Backend**                         |                           **AI / Backend**<br>**Deploy**                       |                                 **Tech Leader**<br>**Frontend**                              |                            **Backend**<br>**Deploy**                           |                                  
+|                          **TeamLeader**<br>**AI**                     |                        **AI**<br>**Backend**                         |                           **AI / Backend**<br>**Deploy**                       |                                 **Tech Leader**<br>**Frontend**                              |                            **Backend**<br>**Deploy**                           |                              
 
 <br>
 
