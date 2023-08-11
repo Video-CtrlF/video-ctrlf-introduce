@@ -11,6 +11,10 @@
 - 프로젝트 명: AI 기반의 영상 속 음성 및 텍스트를 검색할 수 있는 서비스
 - 프로젝트 기간: 2023.04.24 ~ 2023.06.13
 - 프로젝트 인원: 5명 (AI/Frontend/Backend/Cloud)
+|                     [류홍규](https://github.com/HongkyuRyu)                      |                      [박지환](https://github.com/Jihwan98)                      |                      [이형길](https://github.com/Hyunggul)                      |                       [조성록](https://github.com/dev-loggi)                        |                     [최태양](https://github.com/Sunny14578)                      |                               
+:---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------: 
+|[![thumbnail](https://avatars.githubusercontent.com/u/69923886?v=4)](https://github.com/HongkyuRyu) | [![thumbnail](https://avatars.githubusercontent.com/u/76936390?v=4)](https://github.com/Jihwan98) | [![thumbnail](https://avatars.githubusercontent.com/u/124108621?v=4)](https://github.com/Hyunggul) | [![thumbnail](https://avatars.githubusercontent.com/u/33805423?v=4)](https://github.com/dev-loggi) | [![thumbnail](https://avatars.githubusercontent.com/u/59717550?v=4)](https://github.com/Sunny14578)   
+|                          **TeamLeader**<br>**AI**                     |                        **AI**<br>**Backend**                         |                           **AI / Backend**<br>**Deploy**                       |                                 **Tech Leader**<br>**Frontend**                              |                            **Backend**<br>**Deploy**                           |                                  
 
 <br>
 
@@ -53,7 +57,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 # 프로젝트 개발내용
 ![Alt text](images/serviceflow.png)
-
+![Alt text](images/view.png)
 [1. Whisper (STT)](https://github.com/openai/whisper)
 - 음성 데이터를 텍스트 데이터로 변환하는 STT모델로 Whisper 모델사용
 - Whisper는 한국어를 약 8000시간의 데이터로 학습하여, 한국어에서도 뛰어난 성능을 보여줌
@@ -84,7 +88,7 @@ Task 3.
 
 <br>
 
-![Alt text](images/view.png)
+
 <br>
 
 
@@ -93,7 +97,3 @@ Task 3.
 ![Alt text](images/image2.png)
 ![Alt text](images/image3.png)
 
-|                     [류홍규](https://github.com/HongkyuRyu)                      |                      [박지환](https://github.com/Jihwan98)                      |                      [이형길](https://github.com/Hyunggul)                      |                       [조성록](https://github.com/dev-loggi)                        |                     [최태양](https://github.com/Sunny14578)                      |                               
-:---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------: 
-|[![thumbnail](https://avatars.githubusercontent.com/u/69923886?v=4)](https://github.com/HongkyuRyu) | [![thumbnail](https://avatars.githubusercontent.com/u/76936390?v=4)](https://github.com/Jihwan98) | [![thumbnail](https://avatars.githubusercontent.com/u/124108621?v=4)](https://github.com/Hyunggul) | [![thumbnail](https://avatars.githubusercontent.com/u/33805423?v=4)](https://github.com/dev-loggi) | [![thumbnail](https://avatars.githubusercontent.com/u/59717550?v=4)](https://github.com/Sunny14578)   
-|                          **TeamLeader**<br>**AI**                     |                        **AI**<br>**Backend**                         |                           **AI / Backend**<br>**Deploy**                       |                                 **Tech Leader**<br>**Frontend**                              |                            **Backend**<br>**Deploy**                           |                                  
