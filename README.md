@@ -131,7 +131,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 <br>
 
 ### :hibiscus: AWS ArchiTecture
-![Alt text](images/awsflow.png)
+![Alt text](images/architecture.png)
 
 - ‘동영상 Ctrl + F’ 기능을 이용할 동영상을 업로드 후 Storage에 저장
 - AI Server로 동영상 전달 후 AI Server에 구축된 AI 모델이 동영상의 메타데이터 생성
