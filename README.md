@@ -58,7 +58,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 # 프로젝트 개발내용
 ![Alt text](images/serviceflow_.png)
-![Alt text](images/view__.png)
+![Alt text](images/view1.png)
 [1. Whisper (STT)](https://github.com/openai/whisper)
 - 음성 데이터를 텍스트 데이터로 변환하는 STT모델로 Whisper 모델사용
 - Whisper는 한국어를 약 8000시간의 데이터로 학습하여, 한국어에서도 뛰어난 성능을 보여줌
