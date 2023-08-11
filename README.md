@@ -69,7 +69,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 <br>
 
 ![Alt text](images/AITask.png)
-![Alt text](images/AITask2.png)
+![Alt text](images/AlTask2.png)
 
 Task 1. 
 - 동영상에서 음성 데이터를 발화 단위로 추출하고(Chunk, Parts of Audio) Whisper 모델(STT)을 통해 텍스트와 시간 정보로 변환
