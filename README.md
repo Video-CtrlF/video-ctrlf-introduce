@@ -57,11 +57,36 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 <br>
 
 # 프로젝트 개발내용
+
+### 서비스 플로우
+
 ![Alt text](images/serviceflow_.png)
+
+- 사용자(수강생) 화면에서의 서비스 플로우는 위와 같음
+- 이러닝 동영상을 실행하면 해당 동영상에 맞는 DB에 접근 후 사용자가 선택한 검색 유형과 검색어에 따라 스크립트를 출력
+- 스크립트에서 원하는 문장을 선택할 때 해당 시간 정보에 맞는 화면으로 동영상 위치 이동
+
+<br>
+
+### UI/UX 개발 내용
+
 ![Alt text](images/view1.png)
+
+- 동영상 영역에 검색 단어 Bounding Box 처리
+- 타임 스탬프 클릭 시 해당 시간대로 이동하는 기능
+- 영상 내용을 대표하는 핵심 키워드 표시 기능 
+- 검색 결과 영역에 검색한 텍스트가 포함된 문장 및 타임 스탬프 표시
+- 음성 검색 혹은 텍스트 검색을 선택하는 기능
+
+<br>
+
+### AI 개발내용
+
 [1. Whisper (STT)](https://github.com/openai/whisper)
 - 음성 데이터를 텍스트 데이터로 변환하는 STT모델로 Whisper 모델사용
+
 - Whisper는 한국어를 약 8000시간의 데이터로 학습하여, 한국어에서도 뛰어난 성능을 보여줌
+
 - 모델 추론 결과에 발화 시간이 함께 나오기 때문에 시간체크에 유용함
 
 <br>
@@ -73,7 +98,12 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 
 <br>
 
-![Alt text](images/AITask.png)
+<div align="center" >
+  <img src="images/AITask.png" width="80%"/>
+</div>
+
+
+<br>
 
 <div align="center">
   <img src="images/AlTask2.png" width="70%"/>
@@ -91,6 +121,23 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 - <Task 1>과 <Task 2>에서 추출한 텍스트에 LDA 알고리즘을 사용하여 핵심 키워드 20개 추출 후 DB에 저장
 
 <br>
+
+### Web Server 개발 내용
+- 동영상 및 스크립트 데이터를 제공하는 REST(Representational State Transfer) API 개발
+- 동영상과 AI 모델로부터 생성된 메타데이터를 DB에 저장하는 기능 개발
+- AWS Cloud EC2에 EasyOCR, Whisper 모델 서버 구축
+
+<br>
+
+### AWS ArchiTecture
+![Alt text](images/awsflow.png)
+
+- ‘동영상 Ctrl + F’ 기능을 이용할 동영상을 업로드 후 Storage에 저장
+- AI Server로 동영상 전달 후 AI Server에 구축된 AI 모델이 동영상의 메타데이터 생성
+- 생성된 메타데이터, 파일 경로, 파일명 DB에 저장
+- 동영상 플랫폼에 메타데이터 전송하여 Ctrl + F 기능 표시
+
+
 <br>
 
 # :evergreen_tree: 팀원 소개
