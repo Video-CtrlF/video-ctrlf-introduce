@@ -91,11 +91,7 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 - <Task 1>과 <Task 2>에서 추출한 텍스트에 LDA 알고리즘을 사용하여 핵심 키워드 20개 추출 후 DB에 저장
 
 <br>
-
-
 <br>
-
-
 # :evergreen_tree: 팀원 소개
 ![Alt text](images/profile_1.png)
 ![Alt text](images/profile_2.png)
