@@ -74,17 +74,20 @@ KT AIVLE School 대부분 수강생들이 복습을 위해 강의를 재시청�
 <br>
 
 ![Alt text](images/AITask.png)
-![Alt text](images/AlTask2.png)
 
-Task 1. 
+<div align="center">
+  <img src="images/AlTask2.png" width="70%"/>
+</div>
+
+**Task 1.**  
 - 동영상에서 음성 데이터를 발화 단위로 추출하고(Chunk, Parts of Audio) Whisper 모델(STT)을 통해 텍스트와 시간 정보로 변환
 - 변환된 텍스트와 시간 정보를 시간 순으로 정렬하여 스크립트 형태로 DB에 저장
 
-Task 2. 
+**Task 2.**  
 - 동영상을 프레임 이미지로 분할한 뒤 EasyOCR 모델을 통해 이미지에 있는 글자를 추출하고 텍스트로 변환 후 시간 정보와 함께 스크립트화
 - 이 때, 프레임별 중복 텍스트 방지를 위해 EasyOCR 모델을 수행 전 SSIM을 통해 프레임 수 조절
 
-Task 3.
+**Task 3.**  
 - <Task 1>과 <Task 2>에서 추출한 텍스트에 LDA 알고리즘을 사용하여 핵심 키워드 20개 추출 후 DB에 저장
 
 <br>
